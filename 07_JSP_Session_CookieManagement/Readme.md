@@ -20,10 +20,10 @@ This example shows how to:
 
 ### 🔗 Output Screens:
 
-- [7a.jpg](./07A_SessionManagement_1MinExpiry/7a.jpg)
-- [7a0.jpg](./07A_SessionManagement_1MinExpiry/7a0.jpg)
-- [7a00.jpg](./07A_SessionManagement_1MinExpiry7a00.jpg)
-- [7a000.jpg](./07A_SessionManagement_1MinExpiry/7a000.jpg)
+- [7a.jpg](./07A_SessionManagement_1MinExpiry/7a.png)
+- [7a0.jpg](./07A_SessionManagement_1MinExpiry/7a0.png)
+- [7a00.jpg](./07A_SessionManagement_1MinExpiry7a00.png)
+- [7a000.jpg](./07A_SessionManagement_1MinExpiry/7a000.png)
 
 ---
 
