@@ -15,8 +15,8 @@ This folder contains basic Java Servlet programs demonstrating core backend func
 
   - **Java Servlet**: [CookieServlet.java](./06B_Servlet_CookieVisitCounter/src/main/java/servlet/CookieServlet.java)
   - **HTML Page**: [index.html](./06B_Servlet_CookieVisitCounter/src/main/webapp/index.html)
-  - 📷 [View Output 1](./06B_Servlet_CookieVisitCounter/6b.jpg)
-  - 📷 [View Output 2](./06B_Servlet_CookieVisitCounter/6b0.jpg)
+  - 📷 [View Output 1](./06B_Servlet_CookieVisitCounter/6b.png)
+  - 📷 [View Output 2](./06B_Servlet_CookieVisitCounter/6b0.png)
 
 - **[6c_Servlet Prime Number Check](./06C_Servlet_PrimeNumberCheck)**
   - **Java Servlet**: [PrimeServlet.java](./06C_Servlet_PrimeNumberCheck/src/main/java/servlet/PrimeServlet.java)
