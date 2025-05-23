@@ -44,5 +44,5 @@ This example shows how to:
 
 ### 🔗 Output Screens:
 
-- [7b.jpg](./07B_CookieManagement_JSP/7b.jpg)
-- [7b0.jpg](./07B_CookieManagement_JSP/7b0.jpg)
+- [7b.jpg](./07B_CookieManagement_JSP/7b.png)
+- [7b0.jpg](./07B_CookieManagement_JSP/7b0.png)
