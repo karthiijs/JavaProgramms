@@ -19,7 +19,7 @@ This part demonstrates:
 - [`database_setup.sql`](./09A_DeleteCoffeeRecord_ByID/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [9a.png](./09A_DeleteCoffeeRecord_ByID/9a.png)
+- [9a.png](./09A_DeleteCoffeeRecord_ByID/9a.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ This part demonstrates:
 - [`database_setup.sql`](./09B_ShowCoffeeRecords_NamesStartingWithD/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [9b.png](./09B_ShowCoffeeRecords_NamesStartingWithD/9b.png)
+- [9b.png](./09B_ShowCoffeeRecords_NamesStartingWithD/9b.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ This part demonstrates:
 - [`database_setup.sql`](./09C_AppendNewEmployeeRecord/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [9c.png](./09C_AppendNewEmployeeRecord/9c.png)
+- [9c.png](./09C_AppendNewEmployeeRecord/9c.jpg)
 - [9c0.png](./09C_AppendNewEmployeeRecord/9c0.png)
 
 ---
