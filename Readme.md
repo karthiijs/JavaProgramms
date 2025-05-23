@@ -1,6 +1,6 @@
-# Java Programming Assignment – Karthikya JS (4AL22CS072)
+# Java Programming Assignment – Karthikeya JS (4AL22CS072)
 
-This repository provides a well-organized collection of Java programs covering key concepts such as data structures, string manipulation, graphical interfaces using Swing, web development with Servlets and JSP, and database interaction using JDBC.
+This repository provides a well-organized collection of 28 Java programs covering key concepts such as data structures, string manipulation, graphical interfaces using Swing, web development with Servlets and JSP, and database interaction using JDBC.
 
 ---
 
