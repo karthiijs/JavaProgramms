@@ -38,7 +38,7 @@ This folder contains Java programs related to ArrayList and LinkedList operation
     [View Output](./01C_LinkedList_Programs/InsertAtEnd.png)
 
   - **LinkedListPositionDisplay.java**  
-    [View Output](./01C_LinkedList_Programs/LinkedListFromPosition.png)
+    [View Output](./01C_LinkedList_Programs/IterateFromSecond.png)
 
   - **LinkedListSwap.java**  
     [View Output](./01C_LinkedList_Programs/SwapElements.png)
