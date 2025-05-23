@@ -1,57 +1,56 @@
-#  Java Programming Assignment– Prathamesh Shetty 4AL22CS106
+# Java Programming Assignment – Karthikya JS (4AL22CS072)
 
-This repository contains organized Java programs for data structures, string handling, GUI (Swing), servlets, JSP, and JDBC-based projects.
-
-## 📁 Folder Structure
-
-- [1_ArrayList_and_LinkedList](./1_arrayList_and_linkedList)
-- [2_String_Handling_and_Performance](./2_string_handling_and_performance)
-- [3_String_Operations_and_Exercises](./3_String_Operations_and_Exercises)
-- [4_Swing_Basics_and_Buttons](./4_swing_basics_and_buttons)
-- [5_JList_and_TabbedPane](./5_jList_and_tabbedPane)
-- [6_Servlet_Basics](./6_servlet_basics)
-- [7_JSP_Session_and_Cookie_Management](./7_jsp_session_and_cookie_management)
-- [8_JDBC_Coffee_and_Emp_CRUD](./8_jdbc_coffee_and_emp_crud)
-- [9_JDBC_Advanced_Coffee_and_Emp](./9_jdbc_advanced_coffee_and_emp)
+This repository provides a well-organized collection of Java programs covering key concepts such as data structures, string manipulation, graphical interfaces using Swing, web development with Servlets and JSP, and database interaction using JDBC.
 
 ---
 
-## 🛠️ JDBC Program Execution Instructions
+## 📁 Directory Overview
 
-To run the JDBC programs in folders `8_jdbc_coffee_and_emp_crud` and `9_jdbc_advanced_coffee_and_emp`, follow the steps below:
+- [01_Array_vs_LinkedList](./1_arrayList_and_linkedList)
+- [02_String_Handling_and_Performance](./2_string_handling_and_performance)
+- [03_String_Operations_and_Exercises](./3_String_Operations_and_Exercises)
+- [04_Swing_Basics_and_Buttons](./4_swing_basics_and_buttons)
+- [05_JList_and_TabbedPane](./5_jList_and_tabbedPane)
+- [06_Servlet_Basics](./6_servlet_basics)
+- [07_JSP_Session_and_Cookie_Management](./7_jsp_session_and_cookie_management)
+- [08_JDBC_Coffee_and_Employee_CRUD](./8_jdbc_coffee_and_emp_crud)
+- [09_JDBC_Advanced_Coffee_and_Employee](./9_jdbc_advanced_coffee_and_emp)
+
+---
+
+## 🛠️ JDBC Setup Guide
+
+To execute the database-related programs in folders `08_JDBC_Coffee_and_Employee_CRUD` and `09_JDBC_Advanced_Coffee_and_Employee`, please follow these steps:
 
 ### 1. Install XAMPP
-Download and install XAMPP from: https://www.apachefriends.org/index.html
+Get XAMPP from the official website:  
+🔗 [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
 
-### 2. Start Apache and MySQL
-Open the XAMPP Control Panel and start:
+### 2. Start Required Services
+Launch XAMPP Control Panel and ensure the following are running:
 - **Apache**
 - **MySQL**
 
-### 3. Setup the Database
-1. Open [phpMyAdmin](http://localhost/phpmyadmin) in your browser.
-2. Click on "Import".
-3. Choose the `database.sql` file provided in the folder.
-4. Click **Go** to create the necessary tables (`coffee`, `Emp`, etc.)
+### 3. Database Configuration
+1. Open your browser and go to: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+2. Click on the **Import** tab.
+3. Choose the `database.sql` file included in the project.
+4. Hit **Go** to create the necessary tables (like `coffee`, `Emp`, etc.)
 
-### 4. Install Apache Tomcat Server
-Download and install Apache Tomcat from: https://tomcat.apache.org/
+### 4. Install Apache Tomcat
+Download and set up Tomcat from:  
+🔗 [https://tomcat.apache.org/](https://tomcat.apache.org/)
 
-- Configure Tomcat as your servlet/JSP container.
-- Set up your project to deploy JSP and Servlet files to Tomcat’s `webapps` directory or configure your IDE (e.g., Eclipse) with Tomcat server runtime.
+- Configure it as your server for JSP and Servlet files.
+- Deploy your project by placing JSP/Servlet files inside the `webapps` folder or configure it through your IDE (e.g., Eclipse or IntelliJ).
 
-### 5. Configure JDBC in Your Java Project
-- Download the **MySQL Connector/J**: [MySQL Connector](https://dev.mysql.com/downloads/connector/j/)
-- Add the JAR to your project’s classpath (in Eclipse: Right-click project → Build Path → Add External JARs).
+### 5. Add JDBC Driver to Your Project
+- Download the **MySQL JDBC Driver** from:  
+  🔗 [https://dev.mysql.com/downloads/connector/j/](https://dev.mysql.com/downloads/connector/j/)
+- Add the `.jar` file to your project’s classpath.  
+  *(Eclipse: Right-click project → Build Path → Add External JARs)*
 
-### 6. Update DB Connection URL if needed
-Check the `Connection.java` or `DBConnect.jsp` file and ensure the connection string matches your setup:
+### 6. Edit Connection Configuration
+Ensure the database connection string matches your setup in `Connection.java` or `DBConnect.jsp`:
 ```java
 Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/your_db_name", "root", "");
-```
-Replace `your_db_name` with the database name imported from `database.sql`.
-
-**Username:** `root` (default in XAMPP)  
-**Password:** leave blank unless you set one in MySQL.
-
-
