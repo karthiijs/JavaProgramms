@@ -37,8 +37,8 @@ This part demonstrates:
 - [`database_setup.sql`](./08B_UpdateCoffeeRecord_ByID/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [8b.png](./08B_UpdateCoffeeRecord_ByID/8b.png)
-- [8b0.png](./08B_UpdateCoffeeRecord_ByID/8b0.png)
+- [8b.png](./08B_UpdateCoffeeRecord_ByID/8a.png)
+
 
 ---
 
@@ -55,7 +55,7 @@ This part demonstrates:
 - [`database_setup.sql`](./08C_InsertNewEmployeeRecord/database/database_setup.sql)
 
 ### 🔗 Output Screens:
-- [8c.png](./08C_InsertNewEmployeeRecord/8c.png)
+- [8c.png](./08C_InsertNewEmployeeRecord/8c.jpg)
 - [8c0.png](./08C_InsertNewEmployeeRecord/8c0.png)
 
 ---
